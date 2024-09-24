@@ -1,0 +1,3 @@
+1.Hoz létre egy lokális git repot és gothubon is egy ujat.
+2.Kösse osze a ketö repot
+3.készits egy szoveg.txt es tösttd fel a github-ra.
